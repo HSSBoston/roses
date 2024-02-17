@@ -5,7 +5,7 @@ This project connects a Raspi to string LED lights and wraps a bouquet of Lego r
 ### Using a Fairy Warm White Lights 
 
 <p align="center">
-  <img src="images/fairly-lights.jpg" width="400" />
+  <img src="./images/fairy-lights.jpg" width="400" />
 </p>
 
 Get fairy string LED lights, such as [this one](https://www.adafruit.com/product/893) and [this one](https://www.amazon.com/Waterproof-Fireflies-Christmas-Valentines-Decoration/dp/B0BN8543JL). Remove the coin cell holder from LED wires, and connect the wires to a Raspi: the positive wire to a GPIO pin and the ground wire to a GND pin. Run [led-fade.py](code/led-fade.py). 
